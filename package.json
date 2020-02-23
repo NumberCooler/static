@@ -1,6 +1,6 @@
 {
   "name": "@numbercooler/static",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,6 @@
     "express": "^4.17.1"
   },
   "bin" : {
-    "serve-static" : "node ./cli.js"
+    "serve-static" : "./cli.js"
   }
 }
