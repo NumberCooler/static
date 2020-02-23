@@ -12,6 +12,6 @@
     "express": "^4.17.1"
   },
   "bin" : {
-    "serve-static" : "./cli.js"
+    "serve-static" : "node ./cli.js"
   }
 }
